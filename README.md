@@ -1,8 +1,8 @@
-# 🛠️ Engenharia de Software: Algoritmos e Soluções Computacionais com Java
+# Engenharia de Software: Algoritmos e Soluções Computacionais com Java
 
 Este repositório centraliza uma árvore evolutiva de soluções de software focada no desenvolvimento de lógica aplicada, arquitetura limpa, tratamento robusto de erros e a implementação prática do paradigma de Programação Orientada a Objetos (POO).
 
-## 🚀 Competências e Ecossistema Técnico
+## Competências e Ecossistema Técnico
 - **Linguagem:** Java (JDK 17+)
 - **Gerenciador de Projetos:** Maven (Estruturação profissional via `pom.xml`)
 - **Paradigma:** Estruturado e Orientado a Objetos (POO)
@@ -11,7 +11,7 @@ Este repositório centraliza uma árvore evolutiva de soluções de software foc
 
 ---
 
-## 📂 Arquitetura dos Módulos de Engenharia
+## Arquitetura dos Módulos de Engenharia
 
 ### 🔹 [TP01 & TP02](./) - Lógica Comercial e Estruturas de Decisão
 Desenvolvimento focado na resolução algorítmica de regras de negócios dinâmicas e validação de intervalos.
